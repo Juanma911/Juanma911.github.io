@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>20 Minutos</title>
+  <link href="https://www.20minutos.es/" rel="self"/>
+  <link href="https://www.20minutos.es/" rel="alternate"/>
+  <updated>2024-02-04T00:00:00Z</updated>
+  <author>
+    <name>20 Minutos</name>
+    <uri>https://www.20minutos.es/</uri>
+  </author>
+  <id>https://www.20minutos.es/</id>
+
+  <!-- Noticia 1: Política -->
+  <entry>
+    <title>El Gobierno aprueba el proyecto de ley de reforma laboral</title>
+    <link href="https://www.20minutos.es/noticia/3456789/el-gobierno-aprueba-el-proyecto-de-ley-de-reforma-laboral/" rel="alternate"/>
+    <summary>El Consejo de Ministros ha aprobado el proyecto de ley de reforma laboral, que incluye medidas para reducir la temporalidad y mejorar la protección de los trabajadores.</summary>
+    <category term="Política"/>
+    <published>2024-02-04T00:00:00Z</published>
+    <updated>2024-02-04T00:00:00Z</updated>
+  </entry>
+
+  <!-- Noticia 2: Tecnología -->
+  <entry>
+    <title>El nuevo iPhone 15 podría tener una cámara de 50 megapíxeles</title>
+    <link href="https://www.20minutos.es/noticia/3456789/el-nuevo-iphone-15-podria-tener-una-camara-de-50-megapixeles/" rel="alternate"/>
+    <summary>Según fuentes cercanas a la empresa, el nuevo iPhone 15 podría tener una cámara de 50 megapíxeles, lo que lo convertiría en uno de los teléfonos con mejor cámara del mercado.</summary>
+    <category term="Tecnología"/>
+    <published>2024-02-03T00:00:00Z</published>
+    <updated>2024-02-03T00:00:00Z</updated>
+  </entry>
+
+  <!-- Noticia 3: Deportes -->
+  <entry>
+    <title>El Real Madrid vence al Barcelona en el Clásico</title>
+    <link href="https://www.20minutos.es/noticia/3456789/el-real-madrid-vence-al-barcelona-en-el-clasico/" rel="alternate"/>
+    <summary>El Real Madrid ha vencido al Barcelona en el Clásico, gracias a un gol de Karim Benzema en el minuto 80.</summary>
+    <category term="Deportes"/>
+    <published>2024-02-02T00:00:00Z</published>
+    <updated>2024-02-02T00:00:00Z</updated>
+  </entry>
+</feed>
