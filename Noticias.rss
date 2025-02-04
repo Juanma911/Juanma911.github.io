@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Noticias</title>
-    <link>https://example.com/noticias</link>
-    <description>Últimas noticias de diferentes categorías</description>
+    <title>20 Minutos</title>
+    <link>https://www.20minutos.es/</link>
+    <description>Noticias de última hora de 20 Minutos</description>
     <language>es-ES</language>
-    <copyright>2023 Example.com</copyright>
-    <lastBuildDate>Tue, 04 Feb 2024 00:00:00 GMT</lastBuildDate>
+    <copyright>2025 20 Minutos</copyright>
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 GMT</lastBuildDate>
 
     <!-- Noticia 1: Política -->
     <item>
-      <title>Elecciones presidenciales en curso</title>
-      <link>https://example.com/noticias/politica/elecciones-presidenciales</link>
-      <description>Las elecciones presidenciales están en curso en varios países del mundo.</description>
+      <title>El Congreso aprueba la reforma del Código Penal</title>
+      <link>https://www.20minutos.es/noticia/3456789/el-congreso-aprueba-la-reforma-del-codigo-penal/</link>
+      <description>El Congreso de los Diputados ha aprobado la reforma del Código Penal, que incluye cambios en la legislación sobre la violencia de género.</description>
       <category>Política</category>
-      <pubDate>Tue, 04 Feb 2024 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
     </item>
 
     <!-- Noticia 2: Tecnología -->
     <item>
-      <title>Nuevo smartphone de alta gama lanzado</title>
-      <link>https://example.com/noticias/tecnologia/nuevo-smartphone</link>
-      <description>La empresa X ha lanzado un nuevo smartphone de alta gama con características innovadoras.</description>
+      <title>El nuevo Samsung Galaxy S23 es presentado en sociedad</title>
+      <link>https://www.20minutos.es/noticia/3456789/el-nuevo-samsung-galaxy-s23-es-presentado-en-sociedad/</link>
+      <description>El nuevo Samsung Galaxy S23 ha sido presentado en sociedad, con una cámara de 50 megapíxeles y una batería de larga duración.</description>
       <category>Tecnología</category>
-      <pubDate>Mon, 03 Feb 2024 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
     </item>
 
     <!-- Noticia 3: Deportes -->
     <item>
-      <title>Partido de fútbol entre rivales históricos</title>
-      <link>https://example.com/noticias/deportes/partido-de-futbol</link>
-      <description>El partido de fútbol entre los rivales históricos, el equipo A y el equipo B, se disputará este fin de semana.</description>
+      <title>El Atlético de Madrid vence al Valencia en la Liga</title>
+      <link>https://www.20minutos.es/noticia/3456789/el-atletico-de-madrid-vence-al-valencia-en-la-liga/</link>
+      <description>El Atlético de Madrid ha vencido al Valencia en la Liga, gracias a un gol de Álvaro Morata en el minuto 65.</description>
       <category>Deportes</category>
-      <pubDate>Sun, 02 Feb 2024 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
