@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias 20Minutos</title>
+        <link>https://www.20minutos.es/</link>
+        <description>Noticias Internacionales</description>
+        <item>
+            <title>Así es el plan que propone Trump para convertir la destruida Gaza en la "Riviera de Oriente Próximo"</title>
+            <link>https://www.20minutos.es/noticia/5679431/0/analisis-del-plan-de-trump-para-gaza-que-propone-para-quien-y-como-han-reaccionado-palestinos-arabes-e-israelies/</link>
+            <description>El plan del presidente podría significar la presencia de soldados de EEUU en la zona, afirma que EEUU tomará el control de Gaza y expulsará a los palestinos.</description>
+            <author>Chema Lizarralde</author>
+        </item>
+        <item>
+            <title>Bruselas investigará a Shein para ver si ha infringido la legislación europea</title>
+            <link>https://www.20minutos.es/noticia/5679470/0/bruselas-investigara-shein-para-ver-si-ha-infringido-legislacion-europea/</link>
+            <description>La Comisión Europea analizará si la plataforma china ha incurrido en prácticas "desleales e injustas".</description>
+            <author>EFE</author>
+        </item>
+        <item>
+            <title>Ataque con 'kalashnikov' en Bruselas: dos encapuchados disparan en el metro en plena hora punta y huyen por el túnel</title>
+            <link>https://www.20minutos.es/noticia/5679433/0/belgica-sucesos-ampliacion-dos-individuos-disparan-aire-con-fusiles-estacion-metro-bruselas-sin-heridos/</link>
+            <description>No han causado heridos, pero sí importantes perturbaciones en varias líneas de transporte en plena hora punta.</description>
+            <author>EFE</author>
+        </item>
+        <item>
+            <title>México inicia el despliegue de guardias nacionales a la frontera con EEUU tras el acuerdo con Trump</title>
+            <link>https://www.20minutos.es/noticia/5679302/0/mexico-eeuu-mexico-inicia-despliegue-guardias-nacionales-frontera-norte-tras-acuerdo-con-ee-uu/</link>
+            <description>El objetivo es reforzar la frontera con guardias nacionales para evitar el tráfico de drogas, sobre todo de fentanilo.</description>
+            <author>EFE</author>
+        </item>
+    </channel>
+</rss>

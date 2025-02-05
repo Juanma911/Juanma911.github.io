@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Noticias 20Minutos</title>
+    <link href="https://www.20minutos.es/"/>
+    <updated>2025-02-05T13:00:00Z</updated>
+    <author>
+        <name>Juanma Lopez</name>
+    </author>
+    <id>https://www.20minutos.es/internacional/</id>
+    <entry>
+        <title>Así es el plan que propone Trump para convertir la destruida Gaza en la "Riviera de Oriente Próximo"</title>
+        <link href="https://www.20minutos.es/noticia/5679431/0/analisis-del-plan-de-trump-para-gaza-que-propone-para-quien-y-como-han-reaccionado-palestinos-arabes-e-israelies/"/>
+        <id>https://www.20minutos.es/internacional/</id>
+        <updated>2025-02-05T13:00:00Z</updated>
+        <summary>El plan del presidente podría significar la presencia de soldados de EEUU en la zona, afirma que EEUU tomará el control de Gaza y expulsará a los palestinos.</summary>
+    </entry>
+    <entry>
+        <title>Bruselas investigará a Shein para ver si ha infringido la legislación europea</title>
+        <link href="https://www.20minutos.es/noticia/5679470/0/bruselas-investigara-shein-para-ver-si-ha-infringido-legislacion-europea/"/>
+        <id>https://www.20minutos.es/internacional/</id>
+        <updated>2025-02-05T13:00:00Z</updated>
+        <summary>La Comisión Europea analizará si la plataforma china ha incurrido en prácticas "desleales e injustas".</summary>
+    </entry>
+    <entry>
+        <title>Ataque con 'kalashnikov' en Bruselas: dos encapuchados disparan en el metro en plena hora punta y huyen por el túnel</title>
+        <link href="https://www.20minutos.es/noticia/5679433/0/belgica-sucesos-ampliacion-dos-individuos-disparan-aire-con-fusiles-estacion-metro-bruselas-sin-heridos/"/>
+        <id>https://www.20minutos.es/internacional/</id>
+        <updated>2025-02-05T13:00:00Z</updated>
+        <summary>No han causado heridos, pero sí importantes perturbaciones en varias líneas de transporte en plena hora punta.</summary>
+    </entry>
+    <entry>
+        <title>México inicia el despliegue de guardias nacionales a la frontera con EEUU tras el acuerdo con Trump</title>
+        <link href="https://www.20minutos.es/noticia/5679302/0/mexico-eeuu-mexico-inicia-despliegue-guardias-nacionales-frontera-norte-tras-acuerdo-con-ee-uu/"/>
+        <id>https://www.20minutos.es/internacional/</id>
+        <updated>2025-02-05T13:00:00Z</updated>
+        <summary>El objetivo es reforzar la frontera con guardias nacionales para evitar el tráfico de drogas, sobre todo de fentanilo.</summary>
+    </entry>
+</feed>
